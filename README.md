@@ -1,12 +1,12 @@
-# Publikationen
+#Publikationen
 
 
-## 58. Jahrestagung der Deutschen Gesellschaft für Biomedizinische Technik
+##58. Jahrestagung der Deutschen Gesellschaft für Biomedizinische Technik
 
 https://www.researchgate.net/publication/387159955_Granular_Jamming_Gripper_for_an_Ankle_Rehabilitation_Robot
 
 
-### Beschreibung
+##Beschreibung
 
 Erstautorin der Publikation "Granular Jamming Gripper for an Ankle Rehabilitation Robot"
 *Entwicklung eines Granular Jamming Grippers zur Verbesserung des Patientenkomforts und der
